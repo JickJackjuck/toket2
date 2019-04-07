@@ -4,7 +4,7 @@
  * @package B1GT0ken
 **/
 require "./lib.php";
-$reff = "17OC16O7O"; // REFF
+$reff = "5ANW6TAI5"; // REFF
 $serverMail = 4; // Server Generate Mail select 1 or 0
 echo "[!] STARTED... GENERATING MAIL\n";
 switch($serverMail){
